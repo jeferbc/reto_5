@@ -1,0 +1,10 @@
+¿Cual es el metodo que encuentra en tamaño de un array?
+length
+¿Cual es la extension de un archivo ruby?
+rb
+¿Cual es la extension de un archivo HTML con ruby embebido?
+erb
+¿Cual es la capital de brasil?
+brasilia
+¿Todo en Ruby es un?
+objeto
